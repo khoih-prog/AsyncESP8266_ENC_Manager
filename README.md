@@ -1759,7 +1759,7 @@ Local Date/Time: Sat Dec 10 00:25:08 2022
 
 #### 2. Async_ConfigOnSwichFS using LittleFS on ESP8266_NODEMCU_ESP12E with ESP8266_ENC28J60
 
-This is terminal debug output when running [Async_ConfigOnSwichFS](examples/Async_ConfigOnSwichFS) on  **ESP8266_ENC28J60**. `Config Portal` was requested to input and save Credentials.
+This is terminal debug output when running [Async_ConfigOnSwitchFS](examples/Async_ConfigOnSwitchFS) on  **ESP8266_ENC28J60**. `Config Portal` was requested to input and save Credentials.
 
 
 ```
